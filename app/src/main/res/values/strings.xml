@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Petcare</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="balance_currency">$</string>
+    <string name="balance_amount">524.99</string>
+
+    <string name="dialog_internet_alert">No internet available, Please connect to internet to go further</string>
+    <string name="dialog_ok">OK</string>
+
+    <string name="register"><u>Sign Up</u></string>
+    <string name="select_term">Please select Term &#38; Condition</string>
+    <string name="login"><u>Login</u></string>
+    <string name="agree">By signing up I agree to Petcar</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="title_home">Profile</string>
+    <string name="title_videos">Patient List</string>
+    <string name="title_coupens">Articles</string>
+    <string name="title_offers">Questionnaries</string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/title_home</item>
+        <item>@string/title_videos</item>
+        <item>@string/title_coupens</item>
+        <item>@string/title_offers</item>
+
+    </string-array>
+
+
+    <string-array name="nav_drawer_labels1">
+        <item>@string/title_home</item>
+        <item>@string/title_videos</item>
+        <item>@string/title_coupens</item>
+        <item>@string/title_offers</item>
+
+    </string-array>
+
+    <string name="no_internet">Oops! No Internet Connection</string>
+</resources>
